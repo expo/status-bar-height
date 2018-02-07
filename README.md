@@ -1,8 +1,10 @@
 [![NPM](https://nodei.co/npm/@expo/status-bar-height.png)](https://nodei.co/npm/@expo/status-bar-height/)
 
-# @expo/status-bar-height
+# [@expo/status-bar-height](https://snack.expo.io/@bacon/status-bar-height-example)
 
 Listen to status bar changes during incoming calls and other multi-tasking events 💙
+
+Snack: https://snack.expo.io/@bacon/status-bar-height-example
 
 ### Installation
 
