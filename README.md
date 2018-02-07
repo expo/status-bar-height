@@ -4,6 +4,11 @@
 
 Listen to status bar changes during incoming calls and other multi-tasking events 💙
 
+<img src="https://media.giphy.com/media/xThtarfKCyYcUllFQs/giphy.gif" width="281"  />
+
+
+Test in a simulator with **(⌘ Y)** to toggle the status bar height.
+
 Snack: https://snack.expo.io/@bacon/status-bar-height-example
 
 ### Installation
