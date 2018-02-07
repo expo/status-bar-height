@@ -1,0 +1,29 @@
+{
+  "name": "@expo/status-bar-height",
+  "version": "0.0.0",
+  "description":
+    "Listen to status bar changes during incoming calls and other multi-tasking events",
+  "files": ["lib"],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/expo/@expo/status-bar-height.git"
+  },
+  "keywords": [
+    "expo",
+    "statusbar",
+    "tools",
+    "react-native",
+    "react",
+    "ui",
+    "multitask"
+  ],
+  "author": "Evan Bacon",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
