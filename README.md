@@ -1,4 +1,5 @@
-[![NPM](https://nodei.co/npm/@expo/status-bar-height.png)](https://nodei.co/npm/@expo/status-bar-height/)
+
+> 🚨 This package has been deprecated in favor of [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context/) which works in Expo Go and across iOS, Android, and web!
 
 # [@expo/status-bar-height](https://snack.expo.io/@bacon/status-bar-height-example)
 
